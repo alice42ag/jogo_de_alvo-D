@@ -9,7 +9,7 @@ body{
 
 #game-area{
     width: 800px; /*Largura da área do jogo*/
-    height: 300px; /*Altura da área do jogo*/
+    height: 350px; /*Altura da área do jogo*/
     border: 5px solid rgb(12, 13, 37); /*Define borda com 5px de espessura e cor sólida*/
     margin: 10px auto; /*Adiciona margem de 20px em cima e em baixo da área do jogo*/
     position: relative; /*Permite posicionar elementos dentro da área do jogo*/
@@ -39,6 +39,7 @@ body{
     background-color: rgb(25, 27, 72); /*Cor do fundo do botão quando passa o cursor por cima*/
 
 }
+
 
 
 
